@@ -15,6 +15,4 @@
 
 ## קישור לרכיבים הרשמיים
 
-להצגת כללי המשחק המלאים, תהליך המשחק, והרכיבים השונים, בקרו [בקישור זה](https://github.com/your-repo-link-here).
-
-</div>
+להצגת כללי המשחק המלאים, תהליך המשחק, והרכיבים השונים, בקרו https://github.com/GoFast3/Dag-Maluah---Mihsholim/blob/9c4f0f9564c72c2b2e1f19b1c4959d1a13092e29/formal-elements.md
