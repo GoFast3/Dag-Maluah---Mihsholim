@@ -13,8 +13,8 @@
 
 תמונה שמדגימה 4 שחקנים עומדים עם מכשולים. זה תמונה מופשטת שרק מציגה את הרעיון :
 
-![Designer](https://github.com/user-attachments/assets/168f0364-7ac4-43d3-aa96-4b7bbebbe5f7)
 
+![Designer (3)](https://github.com/user-attachments/assets/f8be0ba4-3a2f-4488-972f-d18478360bd2)
 
 ## רכיבים רשמיים
 
